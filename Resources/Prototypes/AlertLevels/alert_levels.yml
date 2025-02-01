@@ -78,3 +78,14 @@
       forceEnableEmergencyLights: true
       shuttleTime: 1200
       global: true
+    zeta:
+      announcement: alert-level-zeta-announcement
+      selectable: false
+      sound:
+        path: /Audio/Misc/zeta.ogg
+      disableSelection: true
+      color: PaleVioletRed
+      emergencyLightColor: Orange
+      forceEnableEmergencyLights: true
+      shuttleTime: 1200
+      global: true

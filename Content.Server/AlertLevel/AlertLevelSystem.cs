@@ -179,10 +179,6 @@ public void SetLevel(EntityUid station, string level, bool playSound, bool annou
         {
             _audio.PlayGlobal(detail.Sound, Filter.Broadcast(), true, detail.Sound.Params);
         }
-        else
-        {
-            _audio.PlayGlobal("/Audio/Announcements/announce.ogg", Filter.Broadcast(), true, AudioParams.Default);
-        }
     }
 
     // Всегда отправляем объявление в чат

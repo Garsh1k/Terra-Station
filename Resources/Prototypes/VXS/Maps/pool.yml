@@ -116,3 +116,5 @@
             Scientist: [ 3, 3 ]
             ResearchDirector: [ 1, 1 ]
             Chaplain: [ 1, 1 ]
+            Chemist: [ 1, 1 ]
+            Psychologist: [ 1, 1 ]
