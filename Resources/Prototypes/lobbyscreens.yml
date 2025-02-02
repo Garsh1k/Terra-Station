@@ -1,3 +1,11 @@
 - type: lobbyBackground
-  id: PlaceholderLobby
-  background: /Textures/LobbyScreens/towebp.webp
+  id: MGElobby
+  background: /Textures/LobbyScreens/mge.webp
+
+- type: lobbyBackground
+  id: MGEbazalobby
+  background: /Textures/LobbyScreens/mgebaza.webp
+
+- type: lobbyBackground
+  id: MGEZOVlobby
+  background: /Textures/LobbyScreens/mgezov.webp
