@@ -1,41 +1,71 @@
 - type: jukebox
-  id: FlipFlap
-  name: X-CEED - Flip Flap
+  id: FpAm
+  name: СЕРЕГА ПИРАТ - ФП АМ
   path:
-    path: /Audio/Jukebox/flip-flap.ogg
+    path: /Audio/Jukebox/fp-am-sliv-klipa.ogg
 
 - type: jukebox
-  id: Tintin
-  name: Jeroen Tel - Tintin on the Moon
+  id: OstanoviteKatku
+  name: СЕРЕГА ПИРАТ - Остановите катку
   path:
-    path: /Audio/Jukebox/title3.ogg
+    path: /Audio/Jukebox/i-ia-krichu-ostanovite-katku.ogg
 
 - type: jukebox
-  id: Thunderdome
-  name: MashedByMachines - Sector 11
+  id: MoiTopor
+  name: СЕРЕГА ПИРАТ - Мой топор
   path:
-    path: /Audio/Jukebox/sector11.ogg
+    path: /Audio/Jukebox/moi-topor-ofitsial-nyi-klip.ogg
 
 - type: jukebox
-  id: Constellations
-  name: Qwertyquerty - Constellations
+  id: TeamSpirit
+  name: СЕРЕГА ПИРАТ - TEAM SPIRIT
   path:
-    path: /Audio/Jukebox/constellations.ogg
+    path: /Audio/Jukebox/team-spirit.ogg
 
 - type: jukebox
-  id: Drifting
-  name: Qwertyquerty - Drifting
+  id: Tilt
+  name: СЕРЕГА ПИРАТ - ТИЛЬТ
   path:
-    path: /Audio/Jukebox/drifting.ogg
+    path: /Audio/Jukebox/til-t.ogg
 
 - type: jukebox
-  id: starlight
-  name: Qwertyquerty - Starlight
+  id: WorldOfDota
+  name: СЕРЕГА ПИРАТ - World of Dota
   path:
-    path: /Audio/Jukebox/starlight.ogg
+    path: /Audio/Jukebox/world-of-dota.ogg
 
 - type: jukebox
-  id: sunset
-  name: PigeonBeans - Sunset
+  id: Zombie apocalypse
+  name: СЕРЕГА ПИРАТ - Зомби апокалипсис
   path:
-    path: /Audio/Jukebox/sunset.ogg
+    path: /Audio/Jukebox/zombi-apokalipsis-ilixx-beats-prod.ogg
+
+- type: jukebox
+  id: Vibeman
+  name: СЕРЕГА ПИРАТ - Вайбмен
+  path:
+    path: /Audio/Jukebox/вайбмен.ogg
+
+- type: jukebox
+  id: Silen
+  name: СЕРЕГА ПИРАТ - Как же он силен
+  path:
+    path: /Audio/Jukebox/как-же-он-силен-официальная-премьера-трека.ogg
+
+- type: jukebox
+  id: MoiBaik
+  name: СЕРЕГА ПИРАТ - Мой байк
+  path:
+    path: /Audio/Jukebox/мой-байк.ogg
+
+- type: jukebox
+  id: Fanat
+  name: СЕРЕГА ПИРАТ - Почему ты еще не фанат
+  path:
+    path: /Audio/Jukebox/почему-ты-еще-не-фанат.ogg
+
+- type: jukebox
+  id: TpNaAme
+  name: СЕРЕГА ПИРАТ - Тп на аме
+  path:
+    path: /Audio/Jukebox/тп-на-аме.ogg

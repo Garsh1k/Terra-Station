@@ -7,9 +7,8 @@
   - type: Projectile
     damage:
       types:
-        Piercing: 23 # VXS
+        Piercing: 28 # VXS
         Blunt: 15 # VXS
-        Asphyxiation: 5 # VXS
   - type: StaminaDamageOnCollide # VXS
     damage: 17
 

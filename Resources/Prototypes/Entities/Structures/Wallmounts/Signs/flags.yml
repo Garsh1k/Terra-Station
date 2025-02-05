@@ -91,3 +91,43 @@
   components:
   - type: Sprite
     state: Reich_flag
+
+- type: entity
+  parent: BaseFlag
+  id: WideReichFlag
+  name: Reich flag
+  description: Wir müssen die Existenz unseres Volkes und eine Zukunft für weiße Kinder sichern, denn die Schönheit der weißen arischen Frau darf nicht von der Erde verschwinden!
+  components:
+  - type: Sprite
+    sprite: Structures/Wallmounts/wide_flags.rsi
+    state: Reich_flag
+
+- type: entity
+  parent: BaseFlag
+  id: ConfederateFlag
+  name: Confederate Flag
+  description: «Хотел бы я быть в Дикси»
+  components:
+  - type: Sprite
+    sprite: Structures/Wallmounts/wide_flags.rsi
+    state: confederate_flag
+
+- type: entity
+  parent: BaseFlag
+  id: RussianEmpireFlag
+  name: Russian Empire Flag
+  description: Боже, Царя храни! Сильный, державный, Царствуй на славу, на славу намъ! Царствуй на страхъ врагамъ, Царь православный! Боже, Царя храни!
+  components:
+  - type: Sprite
+    sprite: Structures/Wallmounts/wide_flags.rsi
+    state: Russian_Empire
+
+- type: entity
+  parent: BaseFlag
+  id: RusichFlag
+  name: Rusich Flag
+  description:
+  components:
+  - type: Sprite
+    sprite: Structures/Wallmounts/wide_flags.rsi
+    state: rusich_flag

@@ -183,7 +183,6 @@
         Piercing: 35
         Blunt: 45
         Structural: 15
-        Asphyxiation: 10
     penetrationThreshold: 80
     penetrationDamageTypeRequirement:
     - Structural
@@ -210,7 +209,6 @@
         Piercing: 35
         Blunt: 45
         Structural: 15
-        Asphyxiation: 10
     penetrationThreshold: 80
     penetrationDamageTypeRequirement:
     - Structural

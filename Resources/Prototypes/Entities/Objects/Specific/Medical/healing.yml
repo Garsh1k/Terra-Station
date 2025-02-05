@@ -172,10 +172,8 @@
       - Biological
     damage:
       groups:
-        Brute: -10 # VXS
-      types: # VXS
-        Asphyxiation: 5 # VXS
-    bloodlossModifier: 0.1 # VXS
+        Brute: -30 # VXS
+    bloodlossModifier: -10 # VXS
     healingBeginSound:
       path: "/Audio/Items/Medical/brutepack_begin.ogg"
     healingEndSound:
@@ -278,9 +276,9 @@
       - Biological
     damage:
       types:
-        Slash: -1 # VXS
-        Piercing: -1 # VXS
-    bloodlossModifier: -3 # VXS
+        Slash: -5 # VXS
+        Piercing: -10 # VXS
+    bloodlossModifier: -10 # VXS
     healingBeginSound:
       path: "/Audio/Items/Medical/brutepack_begin.ogg"
     healingEndSound:

@@ -1,15 +1,15 @@
 - type: vendingMachineInventory
   id: NanoMedPlusInventory
   startingInventory:
-    HandheldHealthAnalyzer: 2 # VXS
-    # Brutepack: 5 VXS
-    Ointment: 2 # VXS
-    Bloodpack: 4 # VXS
-    # EpinephrineChemistryBottle: 3 VXS
-    Syringe: 10 # VXS
-    # ClothingEyesHudMedical: 2 VXS
-    # ClothingEyesEyepatchHudMedical: 2 VXS
-    Defibrillator: 2 # VXS
+    HandheldHealthAnalyzer: 3 # VXS
+    Brutepack: 10
+    Ointment: 10
+    Bloodpack: 10
+    EpinephrineChemistryBottle: 3
+    Syringe: 10
+    ClothingEyesHudMedical: 3
+    ClothingEyesEyepatchHudMedical: 3
+    Defibrillator: 3
     SolutionGlassBottleSmallPromedol: 2 # VXS
     SolutionGlassBottleSmallSiliconDioxideColloidal: 2 # VXS
     SolutionGlassBottleBigEstrinidap: 4 # VXS

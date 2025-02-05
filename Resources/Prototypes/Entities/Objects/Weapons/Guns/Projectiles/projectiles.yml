@@ -266,7 +266,6 @@
     damage:
       types:
         Heat: 2 # VXS
-        Asphyxiation: 5 # VXS
     soundHit:
       collection: WeakHit
     forceSound: true

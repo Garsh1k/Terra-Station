@@ -7,9 +7,8 @@
   - type: Projectile
     damage:
       types:
-        Piercing: 36 # VXS
+        Piercing: 42 # VXS
         Blunt: 12 # VXS
-        Asphyxiation: 6 # VXS
     penetrationThreshold: 40 # VXS
     penetrationDamageTypeRequirement:
     - Piercing
@@ -27,9 +26,8 @@
   - type: Projectile
     damage:
       types:
-        Piercing: 36 # VXS
+        Piercing: 42 # VXS
         Blunt: 12 # VXS
-        Asphyxiation: 6 # VXS
         Heat: 3 # VXS
     penetrationThreshold: 40 # VXS
     penetrationDamageTypeRequirement:
@@ -61,8 +59,7 @@
   - type: Projectile
     damage:
       types:
-        Asphyxiation: 6 # VXS
-        Piercing: 36 # VXS
+        Piercing: 42 # VXS
         Heat: 11 # VXS
     penetrationThreshold: 30 # VXS
     penetrationDamageTypeRequirement:

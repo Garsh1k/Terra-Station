@@ -1,0 +1,23 @@
+{
+    "version": 1,
+    "license": "CC-BY-SA-3.0",
+    "copyright": "CORVAX SRALKER",
+    "size": {
+      "x": 64,
+      "y": 32
+    },
+    "states": [
+      {
+        "name": "confederate_flag"
+      },
+      {
+        "name": "rusich_flag"
+      },
+      {
+        "name": "Russian_Empire"
+      },
+      {
+        "name": "Reich_flag"
+      }
+    ]
+  }
