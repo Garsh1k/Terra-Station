@@ -4,17 +4,15 @@
     ClothingBackpackSecurity: 3
     ClothingBackpackSatchelSecurity: 3
     ClothingBackpackDuffelSecurity: 3
-    ClothingUniformJumpsuitSec: 3
+    ClothingUniformJumpsuitSolar: 3
     ClothingShoesBootsJack: 3
     ClothingHeadHatBeretSecurity: 3
     ClothingHeadHatSecsoft: 3
     ClothingHeadBandRed: 3
     ClothingHandsGlovesColorBlack: 3
     ClothingHandsGlovesFingerless: 3
-    ClothingUniformJumpskirtSec: 3
-    ClothingUniformJumpsuitSecGrey: 3
-    ClothingUniformJumpskirtSecGrey: 3
-    ClothingUniformJumpsuitSecBlue: 3
+    ClothingUniformJumpsuitSolarGrey: 3
+    ClothingUniformJumpsuitSolarGold: 3
     ClothingHeadsetSecurity: 3
     ClothingOuterWinterSec: 2
     ClothingOuterArmorBasic: 2
