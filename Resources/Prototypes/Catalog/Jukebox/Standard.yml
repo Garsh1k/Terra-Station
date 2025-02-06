@@ -69,3 +69,9 @@
   name: СЕРЕГА ПИРАТ - Тп на аме
   path:
     path: /Audio/Jukebox/тп-на-аме.ogg
+
+- type: jukebox
+  id: Lasthitman
+  name: СЕРЕГА ПИРАТ - Ластхитмен
+  path:
+    path: /Audio/Jukebox/ластхитмен.ogg
