@@ -187,4 +187,13 @@
   description: This painting is a sad clown! It sparks joy.
   components:
   - type: Sprite
-    state: painting19  
+    state: painting19
+
+- type: entity
+  parent: PaintingBase
+  id: PaintingPutin
+  name: Putin portrait
+  description: The great king of the whole world!
+  components:
+  - type: Sprite
+    state: painting20
